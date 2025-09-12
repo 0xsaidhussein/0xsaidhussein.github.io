@@ -16,7 +16,7 @@ timezone: Africa/Nairobi
 
 title: Said Hussein # the main title
 
-tagline: PNPT,CRTA,PT1,eJPT,ICCA
+tagline: PNPT|CRTA|PT1|eJPT|ICCA
 # it will display as the subtitle
 
 description: I'm 0xsaidhussein, a Red Team enthusiast with a strong focus on offensive security. My main interests revolve around penetration testing, bug hunting, and playing Capture The Flag (CTF) challenges.
